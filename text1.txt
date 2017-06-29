@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E074-8626
+
+ Directory of C:\myproject
+
+06/29/2017  02:23 AM    <DIR>          .
+06/29/2017  02:23 AM    <DIR>          ..
+06/29/2017  02:22 AM    <DIR>          .git
+06/29/2017  02:23 AM                 0 text1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  77,251,932,160 bytes free
